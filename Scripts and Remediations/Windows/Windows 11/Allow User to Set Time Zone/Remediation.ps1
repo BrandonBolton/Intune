@@ -1,4 +1,3 @@
-# Define the groups to be added
 $groups = @("Administrators", "LOCAL SERVICE", "Users", "Authenticated Users")
 
 # Function to add groups to the "Change the time zone" user right

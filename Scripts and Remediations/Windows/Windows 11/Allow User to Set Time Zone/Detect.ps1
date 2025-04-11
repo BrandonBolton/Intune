@@ -1,4 +1,3 @@
-# Define the groups to be checked
 $groups = @("Administrators", "LOCAL SERVICE", "Users", "Authenticated Users")
 
 # Function to verify groups have the "Change the time zone" user right
